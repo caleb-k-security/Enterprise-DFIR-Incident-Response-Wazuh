@@ -1,9 +1,7 @@
-# Enterprise DFIR Investigation and Incident Response Using Wazuh SIEM and Endpoint Forensics
+# Enterprise DFIR Investigation Using Wazuh SIEM and Endpoint Forensics
 
 ## Project Overview
-This project demonstrates an enterprise-style Digital Forensics and Incident Response (DFIR) investigation conducted within a Security Operations Center (SOC) environment. The objective was to detect, investigate, and escalate a simulated endpoint attack using SIEM telemetry, endpoint visibility, and forensic evidence handling practices aligned with real-world SOC workflows.
-
-The investigation follows a structured SOC lifecycle: baseline validation, alert detection, incident escalation, forensic acquisition, memory analysis, and professional incident documentation.
+This project demonstrates DFIR escalation workflows following Tier-1 SOC detection and alert triage.
 
 ---
 
